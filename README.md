@@ -1,4 +1,4 @@
-# Bike-Sharing-Des-Moines2
+# Bike-Sharing-Des-Moines
 **Overview**: We are asked to perform a bike trip analysis using the NYC CitiBike Share data to show details on how it works and how this could apply to Des Moines. 
 During the class modules, we had performed multiple analysis and visualization using Tableau showing the total number of bike trips in August 2019, user type (short term customer
 and annual subscriber) breakdown, peak riding hours, top starting and ending location, etc. We have to perform additional analyses to provide details as to how the bike sharing business could work in Des Moines.
